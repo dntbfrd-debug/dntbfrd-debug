@@ -2,6 +2,8 @@
 
 Я начинающий вайбкод-разработчик, создаю утилиты для геймеров и не только.
 
+![header](header.gif)
+
 ## 🚀 Основной проект
 
 ### [snbld resvap](https://github.com/dntbfrd-debug/snbld_pyside)
