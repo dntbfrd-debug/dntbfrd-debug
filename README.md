@@ -19,6 +19,12 @@
 ![Tesseract](https://img.shields.io/badge/Tesseract-OCR-orange?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 
+## 📊 Статистика
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dntbfrd-debug&theme=radical)](https://github.com/dntbfrd-debug)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dntbfrd-debug&theme=radical)](https://github.com/dntbfrd-debug)
+[![Commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=radical)](https://github.com/dntbfrd-debug)
+
 ## 📬 Контакты
 
 - 💬 Telegram: [@rtmnklvch](https://t.me/rtmnklvch)
