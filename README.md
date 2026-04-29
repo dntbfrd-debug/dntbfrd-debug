@@ -67,12 +67,12 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dntbfrd-debug&bg_color=000000&color=ffffff&line=ff2d95&point=ff2d95&area=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dntbfrd-debug&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff2d95&text_color=ffffff&border_color=ff2d95" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dntbfrd-debug&show_icons=false&show_prs=false&show_icons=false&count_private=true&include_all_commits=true&line_height=27&theme=radical&hide_border=true&bg_color=000000&title_color=ff2d95&text_color=ffffff&border_color=ff2d95" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://metrics.lecoq.io/dntbfrd-debug?template=classic&repositories=1&timestamps=1&config.timezone=Europe%2FMoscow&bg_color=000000&title_color=ff2d95&text_color=ffffff&icon_color=ff2d95" />
-  <img width="49%" src="https://metrics.lecoq.io/dntbfrd-debug?template=languages&languages=1&timestamps=1&config.timezone=Europe%2FMoscow&bg_color=000000&title_color=ff2d95&text_color=ffffff&icon_color=ff2d95" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dntbfrd-debug&bg_color=000000&color=ffffff&line=ff2d95&point=ff2d95&area=true&hide_border=true" />
 </p>
 
 ---
