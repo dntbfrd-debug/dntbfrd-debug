@@ -1,20 +1,14 @@
 # 👋 Привет, я snbld (dntbfrd-debug)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=7793a1&center=true&vCenter=true&width=600&lines=Python+%7C+PySide6+%7C+Automation;Perfect+World+%7C+MMORPG+Tools;Reverse+Engineering+%7C+OCR+%7C+WinAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=4000&pause=1000&color=495d68&center=true&vCenter=true&width=700&lines=Python+%7C+PySide6+%7C+Automation;Perfect+World+%7C+MMORPG+Tools;OCR+%7C+WinAPI+%7C+Tesseract" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🎮 Основной проект
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/dntbfrd-debug/dntbfrd-debug/main/12.mp4" target="_blank">
-    <img src="https://raw.githubusercontent.com/dntbfrd-debug/snbld_pyside/main/logo.png" width="600" alt="Смотреть видео" style="border-radius:12px;" />
-    <br>
-    <b>▶️ Смотреть видео (12.mp4)</b>
-  </a>
-</p>
+
 
 ### [snbld resvap](https://github.com/dntbfrd-debug/snbld_pyside) 🚀
 
