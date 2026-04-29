@@ -9,7 +9,10 @@
 ## 🎮 Основной проект
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/dntbfrd-debug/snbld_pyside/main/logo.png" alt="snbld logo" />
+  <video width="100%" controls>
+    <source src="https://raw.githubusercontent.com/dntbfrd-debug/dntbfrd-debug/main/12.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 ### [snbld resvap](https://github.com/dntbfrd-debug/snbld_pyside) 🚀
