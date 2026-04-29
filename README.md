@@ -14,7 +14,7 @@
   <a href="https://github.com/dntbfrd-debug/snbld_pyside">
     <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=ff2d95&labelColor=000000" alt="Repository" />
   </a>
-  <a href="https://github.com/dntbfrd-debug/snbld_pyside/releases">
+  <a href="https://snbld.ru/site">
     <img src="https://img.shields.io/badge/Download-000000?style=for-the-badge&logo=github&logoColor=ff2d95&labelColor=000000" alt="Download" />
   </a>
 </p>
