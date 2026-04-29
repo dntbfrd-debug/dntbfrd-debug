@@ -8,9 +8,9 @@
 
 ## 🎮 Основной проект
 
-
-
 ### [snbld resvap](https://github.com/dntbfrd-debug/snbld_pyside) 🚀
+
+> Мощная и прозрачная система автоматизации скиллов для Perfect World
 
 - 🎯 Умные макросы с проверкой кулдаунов и дистанции
 - 👁️ OCR распознавание через Tesseract 5.0
@@ -19,24 +19,31 @@
 - ⚡ Низкоуровневый ввод через WinAPI / SendInput
 - 🔓 Полностью открытый исходный код
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dntbfrd-debug/snbld_pyside) 
-[![Download](https://img.shields.io/badge/Download-00b894?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dntbfrd-debug/snbld_pyside/releases)
+<p align="center">
+  <a href="https://github.com/dntbfrd-debug/snbld_pyside">
+    <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=ff2d95&labelColor=000000" alt="Repository" />
+  </a>
+  <a href="https://github.com/dntbfrd-debug/snbld_pyside/releases">
+    <img src="https://img.shields.io/badge/Download-000000?style=for-the-badge&logo=github&logoColor=ff2d95&labelColor=000000" alt="Download" />
+  </a>
+</p>
 
 ---
 
 ## 🛠 Технологический стек
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img alt="OCR" src="https://img.shields.io/badge/Tesseract%205.0--%233b963d.svg?style=for-the-badge&logo=tesseract&logoColor=white"/>
-  <img alt="Nuitka" src="https://img.shields.io/badge/Nuitka%20--%233f792d3.svg?style=for-the-badge&logo=nuitka&logoColor=white"/>
-  <img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse_Engineering-%23cc0000.svg?style=for-the-badge&logo=radare&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-%23000000.svg?&style=for-the-badge&logo=python&logoColor=ff2d95&labelColor=000000"/>
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-%23000000.svg?style=for-the-badge&logo=Qt&logoColor=ff2d95&labelColor=000000"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++%20-%23000000.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=ff2d95&labelColor=000000"/>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=ff2d95&labelColor=000000"/>
+  <img alt="OCR" src="https://img.shields.io/badge/Tesseract%205.0-000000?style=for-the-badge&logo=tesseract&logoColor=ff2d95&labelColor=000000"/>
+  <img alt="Nuitka" src="https://img.shields.io/badge/Nuitka-000000?style=for-the-badge&logo=nuitka&logoColor=ff2d95&labelColor=000000"/>
+  <img alt="Reverse Engineering" src="https://img.shields.io/badge/Rev._Engineering-000000?style=for-the-badge&logo=radare&logoColor=ff2d95&labelColor=000000"/>
 </p>
 
 Специализируюсь на:
+
 - 🐍 Python — основной язык разработки
 - 🖼 PySide6 — создание современных GUI приложений
 - 🔍 Reverse Engineering — анализ и модификация ПО
@@ -49,31 +56,39 @@
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dntbfrd-debug&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dntbfrd-debug&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dntbfrd-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=000000&title_color=ff2d95&icon_color=ff2d95&text_color=ffffff&border_color=ff2d95" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dntbfrd-debug&theme=tokyonight&hide_border=true&background=000000&stroke=ff2d95&ring=ff2d95&fire=ff2d95&currStreakLabel=ffffff&sideLabels=ffffff" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dntbfrd-debug&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dntbfrd-debug&theme=tokyonight&background=000000&title_color=ff2d95&text_color=ffffff&border_color=ff2d95" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=tokyonight&background=000000&title_color=ff2d95&text_color=ffffff&border_color=ff2d95" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dntbfrd-debug&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dntbfrd-debug&theme=tokyonight&background=000000&title_color=ff2d95&text_color=ffffff&border_color=ff2d95" />
 </p>
 
 ---
 
 ## 🌐 Связь со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rtmnklvch)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://snbld.ru/webapp)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dntbfrd-debug)
+<p align="center">
+  <a href="https://t.me/rtmnklvch">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=ff2d95&labelColor=000000" alt="Telegram" />
+  </a>
+  <a href="https://snbld.ru/webapp">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=ff2d95&labelColor=000000" alt="Website" />
+  </a>
+  <a href="https://github.com/dntbfrd-debug">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff2d95&labelColor=000000" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dntbfrd-debug&color=blueviolet&style=flat-square&label=Просмотров%20профиля" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dntbfrd-debug&color=ff2d95&style=flat-square&label=Просмотров%20профиля&base=000000" alt="Profile views" />
   <br>
   🎮 Спасибо за визит — отличного гейминга!
 </p>
