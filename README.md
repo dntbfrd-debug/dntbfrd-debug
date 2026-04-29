@@ -17,7 +17,6 @@
 </p>
 
 ### [snbld resvap](https://github.com/dntbfrd-debug/snbld_pyside) 🚀
-> Мощная и прозрачная система автоматизации скиллов для Perfect World
 
 - 🎯 Умные макросы с проверкой кулдаунов и дистанции
 - 👁️ OCR распознавание через Tesseract 5.0
