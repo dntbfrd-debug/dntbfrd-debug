@@ -67,12 +67,12 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dntbfrd-debug&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=radical" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dntbfrd-debug&bg_color=000000&color=ffffff&line=ff2d95&point=ff2d95&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dntbfrd-debug&theme=radical" />
+  <img width="49%" src="https://metrics.lecoq.io/dntbfrd-debug?template=classic&repositories=1&timestamps=1&config.timezone=Europe%2FMoscow&bg_color=000000&title_color=ff2d95&text_color=ffffff&icon_color=ff2d95" />
+  <img width="49%" src="https://metrics.lecoq.io/dntbfrd-debug?template=languages&languages=1&timestamps=1&config.timezone=Europe%2FMoscow&bg_color=000000&title_color=ff2d95&text_color=ffffff&icon_color=ff2d95" />
 </p>
 
 ---
