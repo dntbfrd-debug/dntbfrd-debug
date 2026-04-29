@@ -42,18 +42,7 @@
   <img alt="Reverse Engineering" src="https://img.shields.io/badge/Rev._Engineering-000000?style=for-the-badge&logo=radare&logoColor=ff2d95&labelColor=000000"/>
 </p>
 
-<p align="center">
-  <img alt="Специализируюсь на" src="https://img.shields.io/badge/Специализируюсь_на:-000000?style=flat&labelColor=000000&color=ff2d95"/>
-</p>
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-основной_язык-000000?style=flat&logo=python&logoColor=ff2d95&labelColor=000000&color=ff2d95"/>
-  <img alt="PySide6" src="https://img.shields.io/badge/PySide6-GUI_приложения-000000?style=flat&logo=qt&logoColor=ff2d95&labelColor=000000&color=ff2d95"/>
-  <img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse_Engineering-анализ_и_модификация-000000?style=flat&logo=radare&logoColor=ff2d95&labelColor=000000&color=ff2d95"/>
-  <img alt="WinAPI" src="https://img.shields.io/badge/WinAPI_SendInput-низкоуровневый_ввод-000000?style=flat&logo=windows&logoColor=ff2d95&labelColor=000000&color=ff2d95"/>
-  <img alt="Tesseract OCR" src="https://img.shields.io/badge/Tesseract_OCR-распознавание_текста-000000?style=flat&logo=tesseract&logoColor=ff2d95&labelColor=000000&color=ff2d95"/>
-  <img alt="Nuitka" src="https://img.shields.io/badge/Nuitka-компиляция_Python-000000?style=flat&logo=nuitka&logoColor=ff2d95&labelColor=000000&color=ff2d95"/>
-</p>
 
 ---
 
