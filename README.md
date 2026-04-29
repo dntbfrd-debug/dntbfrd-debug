@@ -8,10 +8,6 @@
   <img alt="Основной проект" src="https://img.shields.io/badge/Основной_проект-000000?style=for-the-badge&labelColor=000000&color=ff2d95&border=ff2d95"/>
 </p>
 
-### [snbld resvap](https://github.com/dntbfrd-debug/snbld_pyside)
-
-> Мощная и прозрачная система автоматизации скиллов для Perfect World
-
 <p align="center">
   <img alt="Macros" src="https://img.shields.io/badge/Умные_макросы-000000?style=flat&labelColor=000000&color=ff2d95"/>
   <img alt="OCR" src="https://img.shields.io/badge/OCR_Tesseract_5.0-000000?style=flat&logo=tesseract&logoColor=ff2d95&labelColor=000000&color=ff2d95"/>
