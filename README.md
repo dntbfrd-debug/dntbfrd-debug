@@ -62,17 +62,17 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dntbfrd-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=000000&title_color=ff2d95&icon_color=ff2d95&text_color=ffffff&border_color=ff2d95" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dntbfrd-debug&theme=tokyonight&hide_border=true&background=000000&stroke=ff2d95&ring=ff2d95&fire=ff2d95&currStreakLabel=ffffff&sideLabels=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dntbfrd-debug&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=000000&title_color=ff2d95&icon_color=ff2d95&text_color=ffffff&border_color=ff2d95" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dntbfrd-debug&theme=radical&hide_border=true&background=000000&stroke=ff2d95&ring=ff2d95&fire=ff2d95&currStreakLabel=ffffff&sideLabels=ffffff" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dntbfrd-debug&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dntbfrd-debug&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dntbfrd-debug&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dntbfrd-debug&theme=radical" />
 </p>
 
 ---
