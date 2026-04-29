@@ -8,14 +8,7 @@
   <img alt="Основной проект" src="https://img.shields.io/badge/Основной_проект-000000?style=for-the-badge&labelColor=000000&color=ff2d95&border=ff2d95"/>
 </p>
 
-<p align="center">
-  <img alt="Macros" src="https://img.shields.io/badge/Умные_макросы-000000?style=flat&labelColor=000000&color=ff2d95"/>
-  <img alt="OCR" src="https://img.shields.io/badge/OCR_Tesseract_5.0-000000?style=flat&logo=tesseract&logoColor=ff2d95&labelColor=000000&color=ff2d95"/>
-  <img alt="UI" src="https://img.shields.io/badge/Современный_UI_QML-000000?style=flat&logo=qt&logoColor=ff2d95&labelColor=000000&color=ff2d95"/>
-  <img alt="Auth" src="https://img.shields.io/badge/Активация_по_ключу-000000?style=flat&labelColor=000000&color=ff2d95"/>
-  <img alt="Input" src="https://img.shields.io/badge/Низкоуровневый_ввод-000000?style=flat&logo=windows&logoColor=ff2d95&labelColor=000000&color=ff2d95"/>
-  <img alt="Open Source" src="https://img.shields.io/badge/Открытый_код-000000?style=flat&labelColor=000000&color=ff2d95"/>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/dntbfrd-debug/snbld_pyside">
