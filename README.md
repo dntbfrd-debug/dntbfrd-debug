@@ -43,10 +43,7 @@
   <img alt="GitHub статистика" src="https://img.shields.io/badge/GitHub_статистика-000000?style=for-the-badge&labelColor=000000&color=ff2d95&border=ff2d95"/>
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dntbfrd-debug&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=000000&title_color=ff2d95&icon_color=ff2d95&text_color=ffffff&border_color=ff2d95" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dntbfrd-debug&theme=radical&hide_border=true&background=000000&stroke=ff2d95&ring=ff2d95&fire=ff2d95&currStreakLabel=ffffff&sideLabels=ffffff" />
-</p>
+
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dntbfrd-debug&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff2d95&text_color=ffffff&border_color=ff2d95" />
