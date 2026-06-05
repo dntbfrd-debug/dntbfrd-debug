@@ -45,7 +45,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=github_dark" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dntbfrd-debug&theme=github_dark" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dntbfrd-debug&theme=github_dark&utcOffset=3" alt="Productive time" />
 </p>
 
 <p align="center">
