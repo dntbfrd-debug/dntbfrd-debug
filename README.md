@@ -69,5 +69,5 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dntbfrd-debug&left_text=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2&left_color=000000&right_color=fd79a8" alt="Profile views" />
   <br>
-  Спасибо за визит — отличного гейминга!
+  Спасибо за визит!
 </p>
