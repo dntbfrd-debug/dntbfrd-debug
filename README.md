@@ -39,8 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dntbfrd-debug&theme=github_dark" alt="Languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=github_dark" alt="Stats" />
 </p>
 
 <p align="center">
