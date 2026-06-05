@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="header.gif" alt="Header" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=4000&pause=1000&color=fd79a8&background=000000&center=true&vCenter=true&width=800&lines=Python+%7C+PySide6+%7C+Automation;Perfect+World+%7C+MMORPG+Tools;Rev.+Engineering+%7C+OCR+%7C+WinAPI" alt="Typing SVG" />
 </p>
 
