@@ -39,25 +39,11 @@
 </p>
 
 <p align="center">
-  <svg viewBox="0 0 340 200" width="340" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <clipPath id="s">
-        <rect width="340" height="200" rx="15"/>
-      </clipPath>
-    </defs>
-    <image href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=github_dark" width="340" height="200" clip-path="url(#s)"/>
-  </svg>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=github_dark" alt="Stats" />
 </p>
 
 <p align="center">
-  <svg viewBox="0 0 1200 420" width="100%" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <clipPath id="a">
-        <rect width="1200" height="420" rx="15"/>
-      </clipPath>
-    </defs>
-    <image href="https://github-readme-activity-graph.vercel.app/graph?username=dntbfrd-debug&bg_color=000000&color=ffffff&line=fd79a8&point=fd79a8&area=true&hide_border=true" width="1200" height="420" clip-path="url(#a)"/>
-  </svg>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dntbfrd-debug&bg_color=000000&color=ffffff&line=fd79a8&point=fd79a8&area=true&hide_border=true" alt="Activity" />
 </p>
 
 ---
