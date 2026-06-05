@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=4000&pause=1000&color=fd79a8&background=000000&center=true&vCenter=true&width=800&lines=Python+%7C+PySide6+%7C+Automation;Perfect+World+%7C+MMORPG+Tools;Rev.+Engineering+%7C+OCR+%7C+WinAPI" alt="Typing SVG" style="border-radius: 15px;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=4000&pause=1000&color=fd79a8&background=000000&center=true&vCenter=true&width=800&lines=Python+%7C+PySide6+%7C+Automation;Perfect+World+%7C+MMORPG+Tools;Rev.+Engineering+%7C+OCR+%7C+WinAPI" alt="Typing SVG" />
 </p>
 
 ---
@@ -39,11 +39,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=github_dark" alt="Stats" style="border-radius: 15px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=github_dark" alt="Stats" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dntbfrd-debug&bg_color=000000&color=ffffff&line=fd79a8&point=fd79a8&area=true&hide_border=true&border_radius=15" alt="Activity" style="border-radius: 15px;" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dntbfrd-debug&bg_color=000000&color=ffffff&line=fd79a8&point=fd79a8&area=true&hide_border=true" alt="Activity" />
 </p>
 
 ---
