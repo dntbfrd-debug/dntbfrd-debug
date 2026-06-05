@@ -43,8 +43,9 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dntbfrd-debug&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=fd79a8&title_color=fd79a8&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dntbfrd-debug&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&title_color=fd79a8&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dntbfrd-debug&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dntbfrd-debug&theme=github_dark" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dntbfrd-debug&theme=github_dark&utcOffset=3" alt="Productive time" />
 </p>
 
 <p align="center">
