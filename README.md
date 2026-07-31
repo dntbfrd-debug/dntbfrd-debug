@@ -54,6 +54,10 @@ E-commerce платформа для реселла Stone Island. Flask + Vanill
   <img src="https://github-readme-stats-blond-kappa.vercel.app/api?username=dntbfrd-debug&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=fd79a8&title_color=fd79a8&hide_border=true&card_width=1200" alt="Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-blond-kappa.vercel.app/api/top-langs?username=dntbfrd-debug&layout=compact&bg_color=000000&text_color=ffffff&title_color=fd79a8&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
 ---
 
 <p align="center">
