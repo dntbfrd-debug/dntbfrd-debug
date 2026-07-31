@@ -55,6 +55,10 @@ E-commerce платформа для реселла Stone Island. Flask + Vanill
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/dntbfrd-debug/dntbfrd-debug/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-blond-kappa.vercel.app/api/top-langs?username=dntbfrd-debug&layout=compact&bg_color=000000&text_color=ffffff&title_color=fd79a8&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
