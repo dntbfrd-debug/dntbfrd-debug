@@ -64,12 +64,6 @@ E-commerce платформа для реселла Stone Island. Flask + Vanill
   <a href="https://t.me/rtmnklvch">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=fd79a8&labelColor=000000"/>
   </a>
-  <a href="https://snbld.ru/webapp">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=fd79a8&labelColor=000000"/>
-  </a>
-  <a href="https://github.com/dntbfrd-debug">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fd79a8&labelColor=000000"/>
-  </a>
 </p>
 
 ---
