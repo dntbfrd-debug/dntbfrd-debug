@@ -4,6 +4,21 @@
 
 ---
 
+## DASHBOARD
+<p align="center">
+  <a href="https://github.com/dntbfrd-debug/dashboard">
+    <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=fd79a8&labelColor=000000"/>
+  </a>
+  <a href="https://snbld.ru/dashboard">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=fd79a8&labelColor=000000"/>
+  </a>
+</p>
+Система управления сотрудниками. График, учёт выручки, закуп, ревизии. Голосовой ввод, AI-разбор, печать отчётов.
+
+---
+
+
+
 ## SNBLD RESVAP
 <p align="center">
   <a href="https://github.com/dntbfrd-debug/snbld_pyside">
