@@ -22,7 +22,7 @@ Desktop-приложение для автоматизации MMORPG. PySide6, 
   <a href="https://github.com/dntbfrd-debug/torostore">
     <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=fd79a8&labelColor=000000"/>
   </a>
-  <a href="https://torostore.ru/stone">
+  <a href="https://torostore.ru">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=fd79a8&labelColor=000000"/>
   </a>
   <a href="https://t.me/torostore_bot">
